@@ -6,6 +6,6 @@ I'm a full-stack dev working at Thornton Tomasetti, a building engineering compa
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on structural engineering tools at work including graph traversal, and automated steel connection design while working on Zillow API tools, and a future game project on the side
+- 🔭 I’m currently working on structural engineering tools at work in C# including graph traversal, and automated steel connection design while working on a Zillow API game, and a future game project on the side
 - 😄 Pronouns: he/him
 - 🏒 Fun fact: I like the cold and I like to play hockey 
